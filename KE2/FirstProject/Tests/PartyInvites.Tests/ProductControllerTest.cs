@@ -28,8 +28,7 @@ namespace PartyInvites.Tests
             controller.DataSource = mock.Object;
 
             // Act
-            var model = (controller.Index() as ViewResult)?.ViewData.Model
-                as IEnumerable<Product>;
+            var model = (controller.Index() as ViewResult)?.ViewData.Model as IEnumerable<Product>;
 
             // Assert
             Assert.Equal(testData, model,
