@@ -1,9 +1,0 @@
-C:\DevGit\Asp.Net-Core3-Handbook\KE2\FirstProject\PartyInvites.Business\bin\Debug\netstandard2.1\PartyInvites.Business.deps.json
-C:\DevGit\Asp.Net-Core3-Handbook\KE2\FirstProject\PartyInvites.Business\bin\Debug\netstandard2.1\PartyInvites.Business.dll
-C:\DevGit\Asp.Net-Core3-Handbook\KE2\FirstProject\PartyInvites.Business\bin\Debug\netstandard2.1\PartyInvites.Business.pdb
-C:\DevGit\Asp.Net-Core3-Handbook\KE2\FirstProject\PartyInvites.Business\obj\Debug\netstandard2.1\PartyInvites.Business.csprojAssemblyReference.cache
-C:\DevGit\Asp.Net-Core3-Handbook\KE2\FirstProject\PartyInvites.Business\obj\Debug\netstandard2.1\PartyInvites.Business.AssemblyInfoInputs.cache
-C:\DevGit\Asp.Net-Core3-Handbook\KE2\FirstProject\PartyInvites.Business\obj\Debug\netstandard2.1\PartyInvites.Business.AssemblyInfo.cs
-C:\DevGit\Asp.Net-Core3-Handbook\KE2\FirstProject\PartyInvites.Business\obj\Debug\netstandard2.1\PartyInvites.Business.csproj.CoreCompileInputs.cache
-C:\DevGit\Asp.Net-Core3-Handbook\KE2\FirstProject\PartyInvites.Business\obj\Debug\netstandard2.1\PartyInvites.Business.dll
-C:\DevGit\Asp.Net-Core3-Handbook\KE2\FirstProject\PartyInvites.Business\obj\Debug\netstandard2.1\PartyInvites.Business.pdb
